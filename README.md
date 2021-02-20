@@ -5,6 +5,6 @@
   <tr>
   <td width="50%">
       
-&nbsp; <br> [![Spotify](https://persico-dev.vercel.app/api/spotify)](https://open.spotify.com/user/persicodev)
+&nbsp; <br> [<img src="https://persico-dev.vercel.app/api/spotify"](https://open.spotify.com/user/persicodev)
 
 </td>
