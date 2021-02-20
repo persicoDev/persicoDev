@@ -21,7 +21,7 @@
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img
             src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
             alt="cplusplus" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img
-            src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
+            src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
             alt="css3" /> </a> <a href="https://dart.dev" target="_blank"> <img
             src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart" />
     </a> <a href="https://flutter.dev" target="_blank"> <img
