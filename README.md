@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Spotify](https://novatorem-six-blush.vercel.app/api/spotify)](https://open.spotify.com/user/84czm4vmtxbwz60ddoeczypfh)
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+      
+&nbsp; <br> [![Spotify](https://https://persico-dev.vercel.app//api/spotify)](https://open.spotify.com/user/84czm4vmtxbwz60ddoeczypfh)
+
