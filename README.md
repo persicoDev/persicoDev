@@ -29,13 +29,8 @@
                 src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> </a>
         <a href="https://www.javascript.com/"> <img
                 src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-            <a href="https://git-scm.com/" target="_blank"> <img
-                    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-            </a> <a href="https://www.w3.org/html/" target="_blank"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                    alt="html5" width="40" height="40" /> </a> </a> <a href="https://nodejs.org" targ" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-                width="40" height="40" /> </a><a href="https://www.python.org" target="_blank"> <img
+            </a> <a href="https://nodejs.org" targ" target="_blank">
+            <a href="https://www.python.org" target="_blank"> <img
                 src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
                 alt="python" /> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img
                 src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
