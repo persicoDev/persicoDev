@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **python with kivyMD, react native**
 
 - 📫 How to reach me **alessiopersichettidev@gmail.com**
-
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=persicoDev&count_private=true&include_all_commits=true&show_icons=true&theme=material-palenight">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://instagram.com/persico.js" target="blank"><img align="center"
