@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a **BIG angular/nestjs project, some shitty projects**
 
-- 🌱 I’m currently learning **python with kivyMD, Laravel, MySQL**
+- 🌱 I’m currently learning **postgres, containerd and i'm mastering linux**
 
 - 📫 How to reach me **alessiopersichettidev@gmail.com**
 <img top="-3%" align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=persicoDev&count_private=true&include_all_commits=true&show_icons=true&theme=material-palenight">
