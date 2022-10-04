@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alessio Persichetti</h1>
 <h3 align="center">A work in progress full stack developer from Italy</h3>
 
-- 🔭 I’m currently working on a **BIG angular project, some shitty projects**
+- 🔭 I’m currently working on a **BIG angular/nestjs project, some shitty projects**
 
 - 🌱 I’m currently learning **python with kivyMD, Laravel, MySQL**
 
