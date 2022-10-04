@@ -9,8 +9,8 @@
 <img top="-3%" align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=persicoDev&count_private=true&include_all_commits=true&show_icons=true&theme=material-palenight">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://instagram.com/persico.js" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="persico.js" height="30"
+    <a href="https://instagram.com/persico.ts" target="blank"><img align="center"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="persico.ts" height="30"
             width="40" /></a>
     <a href="https://discord.gg/persicoDev#9796" target="blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="persicoDev#9796" height="30"
