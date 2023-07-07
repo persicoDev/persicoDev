@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alessio Persichetti</h1>
 <h3 align="center">A work in progress full stack developer from Italy</h3>
 
-- 🔭 I’m currently working on a **BIG angular/nestjs project, some shitty projects**
+- 🔭 I’m currently working on a **flutter project and some express projects**
 
-- 🌱 I’m currently learning **postgres, containerd and i'm mastering linux**
+- 🌱 I’m currently learning **k8s, containerd and i'm mastering linux**
 
 - 📫 How to reach me **alessiopersichettidev@gmail.com**
 <img top="-3%" align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=persicoDev&count_private=true&include_all_commits=true&show_icons=true&theme=material-palenight">
